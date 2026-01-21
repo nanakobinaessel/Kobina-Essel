@@ -1,0 +1,7 @@
+{
+  "name": "UCC VenueHub",
+  "description": "A real-time lecture hall availability, digital mapping, and academic scheduling platform for the University of Cape Coast.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
